@@ -1,12 +1,12 @@
-Foo
+Fod
 
 ![cat](sub/cat.jpg)
 
-Note: test note
 
 ---
 
 Bar
+ABC
 
 ----
 
