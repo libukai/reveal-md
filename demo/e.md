@@ -6,4 +6,5 @@ highlightTheme: tomorrow-night-bright
 
 ```js
 console.log('Hello world!')
+console.log('Hello world!')
 ```
